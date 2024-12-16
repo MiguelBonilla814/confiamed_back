@@ -1,0 +1,6 @@
+@API_CONFIAMED_MB_HostAddress = http://localhost:5050
+
+GET {{API_CONFIAMED_MB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

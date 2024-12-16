@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aRpkbmJcEwjrLTM7zauM3U9rg6kwAtg7Yro0JgaUrI0=",
+  "Source": "API_CONFIAMED_MB",
+  "BasePath": "_content/API_CONFIAMED_MB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
